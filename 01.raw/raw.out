@@ -1,0 +1,29 @@
+Number of stations:     2
+# AKND  Number of Events:   1
+    secular motion (mm/yr):
+      E component:   -3.533 +-   0.045
+      N component:  -18.636 +-   0.041
+      U component:    4.335 +-   0.083
+  ! earthquake occurred time (yr):  2016.0956
+    coseismic displacements (mm):
+      E component:   30.652 +-   0.723
+      N component:   43.129 +-   0.661
+      U component:  -40.862 +-   1.356
+    linear velocity (mm/yr):
+      E component:  -19.551 +-   0.289
+      N component:  -12.185 +-   0.263
+      U component:   -8.230 +-   0.558
+# CISH  Number of Events:   1
+    secular motion (mm/yr):
+      E component:  -13.718 +-   0.044
+      N component:  -18.211 +-   0.040
+      U component:    5.559 +-   0.080
+  ! earthquake occurred time (yr):  2016.0956
+    coseismic displacements (mm):
+      E component:   34.545 +-   0.715
+      N component:   33.605 +-   0.651
+      U component:  -46.289 +-   1.311
+    linear velocity (mm/yr):
+      E component:  -13.612 +-   0.281
+      N component:  -12.457 +-   0.255
+      U component:   -3.160 +-   0.527

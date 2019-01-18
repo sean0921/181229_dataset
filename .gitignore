@@ -1,0 +1,7 @@
+*.exe
+*.pdf
+*.ppt
+*.pptx
+gmt.conf
+gmt.history
+.gmtdefault4
